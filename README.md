@@ -1,9 +1,9 @@
 # Halloween Dev JS
 
-Este proyecto ha sido creado para resolver los retos de programación de [halloween.dev](https://github.com/midudev/midudev), una iniciativa de [midudev](https://github.com/midudev).
+This project has been created to solve the programming challenges of [halloween.dev](https://github.com/midudev/midudev), an initiative by [midudev](https://github.com/midudev).
 
-## Retos
+## Challenges
 
-| #   | Título                    | Dificultad | Código                                                                    |
-|-----|---------------------------|------------|---------------------------------------------------------------------------|
-| 1   | Create the perfect potion | Fácil      | [Ver](https://github.com/JoseMP05/halloween-dev-js/tree/main/challenge-1) |
+| #   | Title                     | Difficulty | Code                                                                     |
+|-----|---------------------------|------------|--------------------------------------------------------------------------|
+| 1   | Create the perfect potion | Easy       | [View](https://github.com/JoseMP05/halloween-dev-js/tree/main/challenge-1) |
