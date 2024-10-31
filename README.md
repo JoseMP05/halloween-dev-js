@@ -4,6 +4,7 @@ This project has been created to solve the programming challenges of [halloween.
 
 ## Challenges
 
-| #   | Title                     | Difficulty | Code                                                                     |
-|-----|---------------------------|------------|--------------------------------------------------------------------------|
+| #   | Title                     | Difficulty | Code                                                                       |
+|-----|---------------------------|------------|----------------------------------------------------------------------------|
 | 1   | Create the perfect potion | Easy       | [View](https://github.com/JoseMP05/halloween-dev-js/tree/main/challenge-1) |
+| 2   | Zombie Horde              | Easy       | [View](https://github.com/JoseMP05/halloween-dev-js/tree/main/challenge-2) |
