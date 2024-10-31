@@ -5,7 +5,6 @@ import { createMagicPotion } from './solution.js'
 const cases = {
   case1: [[4, 5, 6, 2], 8, [2, 3]],
   case2: [[1, 2, 3, 4], 9, undefined],
-  case3: [[1, 2, 3, 4], 5, [1, 2]],
   case3: [[1, 2, 3, 4], 5, [1, 2]]
 }
 

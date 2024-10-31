@@ -29,7 +29,7 @@ export function createMagicPotion (potions, target) {
   for (let i = 0; i < potions.length; i++) {
     const difference = target - potions[i]
 
-    if (seen.hasOwnProperty(difference)) { return [seen[difference], i] }
+    if (Object.prototype.hasOwnProperty.call(seen, difference)) { return [seen[difference], i] }
 
     seen[potions[i]] = i
   }
